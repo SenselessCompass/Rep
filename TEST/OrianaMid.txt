@@ -1,0 +1,28 @@
+
+
+Initialisation du projet:
+
+
+git init
+
+git commit -m "first commit"
+git remote add origin https://github.com/SenselessCompass/Rep.git
+git push -u origin master
+
+
+
+
+
+
+Pour commencer les pull ou push:
+Push:
+
+git remote add origin https://github.com/SenselessCompass/Rep.git
+git push -u origin master
+
+
+
+
+Pull:
+
+git pull
